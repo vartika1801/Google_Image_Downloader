@@ -40,9 +40,9 @@ This application allows users to download images from Google based on a specifie
 
 ## File Structure
 
-├── app.py                  # Main application script
-├── requirements.txt        # List of dependencies
-├── README.md               # Project overview (this file)
+├── app.py                  
+├── requirements.txt       
+├── README.md               
 
 ## Configuration
 ### Email Setup
@@ -63,6 +63,9 @@ Ensure you use a valid Gmail account for sending emails:
 - Allow users to select specific image formats (e.g., PNG, JPG).
 - Provide progress tracking for image downloads.
 - Include error handling for invalid email addresses or network interruptions.
+
+## Collaboration
+This project was done in collaboration with https://github.com/arnavtiet.
 
 ## Acknowledgments
 - **icrawler** for simplifying image downloads.
